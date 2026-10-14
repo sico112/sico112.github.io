@@ -9,7 +9,7 @@ Replace these placeholders in `index.html` and `privacy.html` (VS Code: Ctrl+Shi
 
 | Placeholder | Example |
 |-------------|---------|
-| `{{DEVELOPER_NAME}}` | The name shown on Google Play (your legal name or company) |
+| `{{YOUR_LEGAL_NAME}}` | Your full legal name (Sico Games is shown as the brand) |
 | `{{COUNTRY}}` | Romania |
 | `{{CONTACT_EMAIL}}` | A dedicated support address, e.g. a new Gmail just for the game |
 | `{{CONTACT_ADDRESS}}` | The same postal address you give Google Play as a trader |
@@ -17,7 +17,7 @@ Replace these placeholders in `index.html` and `privacy.html` (VS Code: Ctrl+Shi
 
 In `app-ads.txt`, put in your AdMob publisher ID.
 
-If the game gets a new name, replace "Color Sort Quest" too.
+The game is called Unlatch and the developer brand is Sico Games.
 
 ## Publishing on GitHub Pages (free)
 
