@@ -52,3 +52,8 @@ footer a { color: var(--muted); }
   header.site nav { gap: 12px; font-size: 15px; margin-left: 0; width: 100%; }
   .shots img { height: 380px; }
 }
+.card.game { display: flex; gap: 18px; align-items: center; text-decoration: none; color: var(--text); grid-column: 1 / -1; }
+.card.game img { width: 140px; border-radius: 14px; flex: none; }
+.card.game .more { color: var(--accent2); margin-top: 8px; }
+.card.game:hover { border-color: var(--accent); }
+@media (max-width: 600px) { .card.game { flex-direction: column; align-items: flex-start; } .card.game img { width: 100%; max-width: 260px; } }
