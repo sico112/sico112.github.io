@@ -11,7 +11,6 @@ Replace these placeholders in `index.html` and `privacy.html` (VS Code: Ctrl+Shi
 |-------------|---------|
 | `{{YOUR_LEGAL_NAME}}` | Your full legal name (Sico Games is shown as the brand) |
 | `{{COUNTRY}}` | Romania |
-| `{{CONTACT_EMAIL}}` | A dedicated support address, e.g. a new Gmail just for the game |
 | `{{CONTACT_ADDRESS}}` | The same postal address you give Google Play as a trader |
 | `{{EFFECTIVE_DATE}}` | The day you publish, e.g. 1 November 2026 |
 
