@@ -9,14 +9,7 @@ A general studio site, with one folder per game. Plain HTML, no build step.
 
 ## Before publishing
 
-Replace these placeholders in `unlatch/privacy.html` (VS Code: Ctrl+Shift+H):
-
-| Placeholder | Example |
-|-------------|---------|
-| `{{YOUR_LEGAL_NAME}}` | Your full legal name (Sico Games is shown as the brand) |
-| `{{COUNTRY}}` | Romania |
-| `{{CONTACT_ADDRESS}}` | The same postal address you give Google Play as a trader |
-| `{{EFFECTIVE_DATE}}` | The day you publish, e.g. 1 November 2026 |
+The policy details (name, address, date) are filled in (14 October 2026).
 
 In `app-ads.txt`, put in your AdMob publisher ID.
 
