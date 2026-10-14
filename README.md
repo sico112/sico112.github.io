@@ -11,7 +11,7 @@ A general studio site, with one folder per game. Plain HTML, no build step.
 
 The policy details (name, address, date) are filled in (14 October 2026).
 
-In `app-ads.txt`, put in your AdMob publisher ID.
+`app-ads.txt` holds the AdMob publisher ID (pub-5691393174561128).
 
 The game is called Unlatch and the developer brand is Sico Games.
 
