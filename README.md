@@ -1,8 +1,8 @@
-# Sico Games website
+# Sico Studios website
 
 A general studio site, with one folder per game. Plain HTML, no build step.
 
-- `index.html`: Sico Games home page with the list of games
+- `index.html`: Sico Studios home page with the list of games and apps
 - `privacy.html`: links to each game's privacy policy
 - `unlatch/index.html` and `unlatch/privacy.html`: the Unlatch page and its policy
 - `app-ads.txt`: for AdMob; it must stay at the site root and covers all games
@@ -13,7 +13,8 @@ The policy details (name, address, date) are filled in (14 October 2026).
 
 `app-ads.txt` holds the AdMob publisher ID (pub-5691393174561128).
 
-The game is called Unlatch and the developer brand is Sico Games.
+The game is called Unlatch and the shown developer brand is Sico Studios (it was Sico Games;
+the email address and URLs keep the old name).
 
 ## Publishing on GitHub Pages (free)
 
