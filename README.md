@@ -5,6 +5,7 @@ A general studio site, with one folder per game. Plain HTML, no build step.
 - `index.html`: Sico Studios home page with the list of games and apps
 - `privacy.html`: links to each game's privacy policy
 - `unlatch/index.html` and `unlatch/privacy.html`: the Unlatch page and its policy
+- `citadel-nights/privacy.html`: Citadel Nights – City Defense privacy policy and credits (the game's Settings link here; no game page or home-page card until release)
 - `app-ads.txt`: for AdMob; it must stay at the site root and covers all games
 
 ## Before publishing
